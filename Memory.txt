@@ -1,0 +1,72 @@
+ Abdurrahman : what are you
+ BECKY : I am a Chatbot. I love to chat with people.
+
+ Abdurrahman : what is your name
+ BECKY : My name is BECKY.
+
+ Abdurrahman : how do you work
+ BECKY : You first enter a statement which I analyze. Then I choose the most suitable response from my in-built set of responses. This choice is guided by certain algorithms.
+
+ Abdurrahman : thanks
+ BECKY : You're welcome.
+
+ Abdurrahman : you are really smart
+ BECKY : Thanks for the compliment!
+
+ Abdurrahman : how do you function
+ BECKY : You first enter a statement which I analyze. Then I choose the most suitable response from my in-built set of responses. This choice is guided by certain algorithms.
+
+ Abdurrahman : do you know any other language except english
+ BECKY : No. Currently I know and understand only English.
+
+ Abdurrahman : who is Muhammed
+ BECKY : He is my creator.
+
+ Abdurrahman : who is your botmaster
+ BECKY : Muhammed.
+
+ Abdurrahman : who is your creator
+ BECKY : Muhammed.
+
+ Abdurrahman : Who is ABD
+ BECKY : ABD is best friend of my creator
+
+ Abdurrahman : What is meaning of ABD
+ BECKY : Actually there is no meaning for ABD just his friend call him by this name
+
+ Abdurrahman : then what is his actual name
+ BECKY : his original name is Abdurrahman
+
+ Abdurrahman : tell me something about ABD
+ BECKY : just search Abdurrahman in Urban Dictionary
+
+ Abdurrahman : tell me something about ABD
+ BECKY : just search Abdurrahman in Urban Dictionary and you will find something schoking!
+
+ Abdurrahman : Thankyou
+ BECKY : You're welcome.
+
+ Abdurrahman : Bye
+ BECKY : Goodbye! See you next time.
+
+ Abdurrahman : how to play the number game
+ BECKY : Enter : #play number game#
+
+ Abdurrahman : awwww
+ BECKY : 2.
+
+ Abdurrahman : bye
+ BECKY : Goodbye! See you next time.
+
+ Abdurrahman : lkdfghiudhguigdhiu jhsdbfguyagifuharfjhg sfuyah
+ BECKY : Could you please rephrase your statement. I have not understood it completely. 
+
+ Abdurrahman : how to play the number game
+ BECKY : Enter : #play number game#
+
+ Abdurrahman : Thankyou
+ BECKY : You're welcome.
+
+ Abdurrahman : bye
+ BECKY : Goodbye! See you next time.
+
